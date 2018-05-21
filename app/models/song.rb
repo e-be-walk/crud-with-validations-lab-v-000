@@ -6,5 +6,5 @@ class Song < ActiveRecord::Base
 
   def released?
     released
-  end 
+  end
 end
